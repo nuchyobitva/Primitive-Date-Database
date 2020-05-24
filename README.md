@@ -9,14 +9,14 @@ Date should be written in following format : yyyy-mm-dd
 In case of invalid requests, database will inform you about errors. 
 ### Del Command
 ---
-Del <Date> to delete the Date from database and all the events, that happened that day
+Del (Date) to delete the Date from database and all the events, that happened that day
   
 Or
 
-Del <Date> <event> to delete one exact event from the following Date.
+Del (Date) (event) to delete one exact event from the following Date.
 ### Find Command
 ---
-Find <Date> to print all events, happened in that Date.
+Find (Date) to print all events, happened in that Date.
 ### Print command
 ---
 Just type Print to see all events with their dates
